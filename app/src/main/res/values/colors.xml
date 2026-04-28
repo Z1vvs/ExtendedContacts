@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="profile_icon_tint">#FF000000</color>
+    <color name="icon_background">#FFFFFFFF</color>
+
+    <!-- Brand Colors for Logo -->
+    <color name="brand_primary">#6750A4</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_tertiary_container">#FFD8E4</color>
+</resources>
